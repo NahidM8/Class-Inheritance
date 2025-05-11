@@ -1,0 +1,14 @@
+C:\Users\Nahid\Desktop\Pb305\StringBuilder Class Inheritance\StringBuilder Class Inheritance\obj\Debug\net8.0\StringBuilder Class Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nahid\Desktop\Pb305\StringBuilder Class Inheritance\StringBuilder Class Inheritance\obj\Debug\net8.0\StringBuilder Class Inheritance.AssemblyInfoInputs.cache
+C:\Users\Nahid\Desktop\Pb305\StringBuilder Class Inheritance\StringBuilder Class Inheritance\obj\Debug\net8.0\StringBuilder Class Inheritance.AssemblyInfo.cs
+C:\Users\Nahid\Desktop\Pb305\StringBuilder Class Inheritance\StringBuilder Class Inheritance\obj\Debug\net8.0\StringBuilder Class Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Nahid\Desktop\Pb305\StringBuilder Class Inheritance\StringBuilder Class Inheritance\bin\Debug\net8.0\StringBuilder Class Inheritance.exe
+C:\Users\Nahid\Desktop\Pb305\StringBuilder Class Inheritance\StringBuilder Class Inheritance\bin\Debug\net8.0\StringBuilder Class Inheritance.deps.json
+C:\Users\Nahid\Desktop\Pb305\StringBuilder Class Inheritance\StringBuilder Class Inheritance\bin\Debug\net8.0\StringBuilder Class Inheritance.runtimeconfig.json
+C:\Users\Nahid\Desktop\Pb305\StringBuilder Class Inheritance\StringBuilder Class Inheritance\bin\Debug\net8.0\StringBuilder Class Inheritance.dll
+C:\Users\Nahid\Desktop\Pb305\StringBuilder Class Inheritance\StringBuilder Class Inheritance\bin\Debug\net8.0\StringBuilder Class Inheritance.pdb
+C:\Users\Nahid\Desktop\Pb305\StringBuilder Class Inheritance\StringBuilder Class Inheritance\obj\Debug\net8.0\StringBuilder Class Inheritance.dll
+C:\Users\Nahid\Desktop\Pb305\StringBuilder Class Inheritance\StringBuilder Class Inheritance\obj\Debug\net8.0\refint\StringBuilder Class Inheritance.dll
+C:\Users\Nahid\Desktop\Pb305\StringBuilder Class Inheritance\StringBuilder Class Inheritance\obj\Debug\net8.0\StringBuilder Class Inheritance.pdb
+C:\Users\Nahid\Desktop\Pb305\StringBuilder Class Inheritance\StringBuilder Class Inheritance\obj\Debug\net8.0\StringBuilder Class Inheritance.genruntimeconfig.cache
+C:\Users\Nahid\Desktop\Pb305\StringBuilder Class Inheritance\StringBuilder Class Inheritance\obj\Debug\net8.0\ref\StringBuilder Class Inheritance.dll
