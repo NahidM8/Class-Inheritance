@@ -8,7 +8,7 @@
         public double FuelFor1Km;
         public double CurrentFuel;
 
-        public Car(string brand, string model, int fuelCapacity, double fuelFor1Km, int currentFuel,int year)
+        public Car(string brand, string model, int fuelCapacity, double fuelFor1Km, int currentFuel,int year,string color):base(color , year)
         {
             Brand = brand;
             Model = model;

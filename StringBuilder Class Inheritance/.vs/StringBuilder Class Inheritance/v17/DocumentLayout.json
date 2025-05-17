@@ -14,21 +14,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Nahid\\Desktop\\Pb305\\Task6\\StringBuilder Class Inheritance\\StringBuilder Class Inheritance\\Program.cs",
-              "RelativeDocumentMoniker": "StringBuilder Class Inheritance\\Program.cs",
-              "ToolTip": "C:\\Users\\Nahid\\Desktop\\Pb305\\Task6\\StringBuilder Class Inheritance\\StringBuilder Class Inheritance\\Program.cs",
-              "RelativeToolTip": "StringBuilder Class Inheritance\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T19:58:10.072Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
@@ -44,6 +31,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nahid\\Desktop\\Pb305\\Task6\\StringBuilder Class Inheritance\\StringBuilder Class Inheritance\\Program.cs",
+              "RelativeDocumentMoniker": "StringBuilder Class Inheritance\\Program.cs",
+              "ToolTip": "C:\\Users\\Nahid\\Desktop\\Pb305\\Task6\\StringBuilder Class Inheritance\\StringBuilder Class Inheritance\\Program.cs",
+              "RelativeToolTip": "StringBuilder Class Inheritance\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T19:58:10.072Z",
+              "EditorCaption": ""
             }
           ]
         }

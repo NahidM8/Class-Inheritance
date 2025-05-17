@@ -4,5 +4,11 @@
     {
         public string Color;
         public int Year;
+
+        public Vehicle(string color, int year)
+        {
+            Color = color;
+            Year = year;
+        }
     }
 }

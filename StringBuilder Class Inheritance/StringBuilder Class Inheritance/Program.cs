@@ -18,7 +18,7 @@ namespace StringBuilder_Class_Inheritance
             #endregion
             #region Task2
 
-            //Car car = new Car("Mercedes", "S class", 80, 0.16, 40, 2012);
+            //Car car = new Car("Mercedes", "S class", 80, 0.16, 40, 2012,"Red");
 
             //car.ShowInfo();
 
